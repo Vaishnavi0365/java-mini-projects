@@ -1,7 +1,7 @@
 # Java Mini Projects
 
 This repository contains small Java console-based projects created for practice and learning.  
-Each project focuses on core Java concepts such as variables, input handling, operators, conditional logic, and basic mathematical calculations.
+Each project focuses on core Java concepts such as variables, input handling, operators, conditional logic, strings, and basic mathematical calculations.
 
 ---
 
@@ -18,6 +18,9 @@ A calculator that computes the final amount using the compound interest formula 
 
 ### 4️⃣ WeightConverter
 A menu-driven program that converts weight between pounds (lbs) and kilograms (kgs).
+
+### 5️⃣ TemperatureConverter
+A simple temperature conversion program that converts values between Celsius (°C) and Fahrenheit (°F).
 
 ---
 
