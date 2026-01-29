@@ -22,6 +22,9 @@ A menu-driven program that converts weight between pounds (lbs) and kilograms (k
 ### 5️⃣ TemperatureConverter
 A simple temperature conversion program that converts values between Celsius (°C) and Fahrenheit (°F).
 
+### 6️⃣ SimpleCalculator
+A console-based calculator that performs basic arithmetic operations using an enhanced switch statement, including validation for invalid operators and division by zero.
+
 ---
 
 ## ▶ How to Run
