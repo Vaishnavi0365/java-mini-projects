@@ -29,6 +29,11 @@ A console-based calculator that performs basic arithmetic operations using an en
 A console-based number guessing game where the program generates a random number within a given range, and the user attempts to guess it.  
 The program provides feedback for each guess, counts the number of attempts, handles invalid (non-numeric) input, and includes a **play-again** feature.
 
+### 8️⃣ SimpleBankingSystem
+
+A menu-driven banking application that allows users to check balance, deposit money, and withdraw funds.
+The program includes input validation, formatted currency output, and ensures sufficient balance before withdrawal.
+
 ---
 
 ## ▶ How to Run
