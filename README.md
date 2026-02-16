@@ -34,6 +34,11 @@ The program provides feedback for each guess, counts the number of attempts, han
 A menu-driven banking application that allows users to check balance, deposit money, and withdraw funds.
 The program includes input validation, formatted currency output, and ensures sufficient balance before withdrawal.
 
+### 9️⃣ DiceRoller
+
+A console-based dice rolling simulator that generates random dice values and displays them using ASCII art.
+The program supports rolling multiple dice, calculates the total score, and includes input validation.
+
 ---
 
 ## ▶ How to Run
